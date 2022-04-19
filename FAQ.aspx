@@ -110,7 +110,7 @@
                             <div class="acc-btn"><span class="icon fa fa-plus"></span>What is the success fee?</div>
                             <div class="acc-content current" style="display: none;">
                                 <div class="content">
-                                    <div class="text">We charge 12% of the amount received (plus 18% GST ) once we successfully resolve your case. For e.g. If you get Rs 100000, we shall charge Rs 12000 + 18% GST.</div>
+                                    <div class="text">We charge 11% of the amount received (plus 18% GST ) once we successfully resolve your case. For e.g. If you get Rs 100000, we shall charge Rs 11000 + 18% GST.</div>
                                 </div>
                             </div>
                         </li>

@@ -245,8 +245,8 @@
                 <div class="col-sm-12 text-white">
                     <center>
                         <h5> One Simple Solution </h5>
-                        <h1>OSS Claim - 166</h1>
-                        <p class="text-white">At OSS Claims - 166, we find solutions to any insurance-related issue that include lapsed insurance policy, assistance in case settlement, claim recovery in case of insurance fraud, assistance to NRI's in servicing their policies, and much more. </p>
+                        <h1>OSS Claims</h1>
+                        <p class="text-white">At OSS Claims, we find solutions to any insurance-related issue where our cliend benifits from the breadth of our insurance, advisory and legal experience, which means that we can provide clients with perspective on the most complex issues including claim recovery in case of insurance fraud, NRI matters and much more which enables us to deliver a high-quality and responsive service to help our clients achieve their objectives. </p>
                     </center>
                 </div>
 
@@ -304,7 +304,7 @@
                     </div>
                     <div class="text-column col-lg-7 col-md-12 col-sm-12">
                         <div class="text-justify">
-                            Many clients complain about their insurance companies leading them astray. We built this web facility to give a redress platform for these unsatisfied clients as we have witnessed for the past four decades. Our insurance industry expertise will help you represent your insurance company and get suitable remedies for your issues. We discover solutions to all insurance-related issues at OSS Claims - 166, including expired insurance policies, case settlement aid, claim recovery in the event of insurance fraud, rejection based on hypertechnical and illegal grounds, and support to NRIs in servicing their policies, amongst other things.    
+                            Many clients complain about their insurance companies leading them astray. We built this web facility to give a redress platform for these unsatisfied clients as we have witnessed for the past four decades. Our legal expertise will help you represent your concerns against the insurace company. We discover solutions to all insurance-related issues at OSS Claims, including case settlement aid, claim recovery in the event of insurance fraud, rejection based on hypertechnical and illegal grounds, NRI policy frauds, amongst other things.    
                         </div>
                     </div>
                 </div>
@@ -501,11 +501,11 @@
                     <h3 style="font-size:24px;">
                         Empower yourself as a policyholder
                     </h3>
-                    <div class="text">A huge number of people every year become victims of scruples agents/intermediaries selling them insurance policies without giving the right information. Post facto customers file complaint against such fraudulent practises with the insurer’s. Most of these issues are around usually range from getting your claim rejected to unnecessary delay in your claim approval.</div>
+                    <div class="text">For many customers, buying insurance is one of the most unique transactions they will ever make. It’s not that insurance, in and of itself, is a strange thing to purchase. Insurance has been around for hundreds of years, almost everyone has heard of it, and a majority of those have purchased some form of insurance at one time or another in their life.</div>
                 </div>
                 
                 <div class="btn-box">
-                    <a href="#" class="theme-btn icon-btn-two"><span>Get help here</span></a>
+                    <a href="" class="theme-btn icon-btn-two"><span>Get help here</span></a>
                 </div>
             </div>
         </div>

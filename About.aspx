@@ -54,9 +54,10 @@
                             <%--<span class="sub-title">innovations</span>--%>
                             <h3>Who We Are</h3>
                             <div class="text"><strong>
-                                The most trusted platform for resolving Insurance complaints in India since 1968. <br/><br/>Our core team constitutes of three professionals with experience of more than 4 decades in the insurance and legal space. We initiated "166 Claims" in 2022 with a dream to fulfill the needs of mistreated Insurance Policy Holders. While working with various insurance companies and law firms, we learned that the clients are continuously losing confidence in the products due to the injustice being served in terms of the genuine claims being rejected or encountering dishonest representatives who mislead customers, and many other service disputes.</strong></div>
+                                The most trusted platform for resolving Insurance complaints in India since &nbsp;1968. </strong><br/>
+                                <br/>A team consisting of three domain experts with experience of upto 4 decades in the insurance and legal space. We initiated "OSS Claims" in 2022 with a desire to bring client service into sharper focus, to provide commercially viable legal advice and committed legal representation to our clients for all insurance related matters. With a long experiecne in this sector, we learned that the clients are continuously being harassed, genuine claims being rejected or dishonest and ignorant representatives who mislead customers, and many other disputes.</div>
                         </div>
-                        <p>We empathetically understand your situations with a realization of how crucial an Insurance policy is for you. Therefore we work together with you to make ends meet and will help resolve your upsetting insurance issues.</p>
+                        <p>Our in-depth sector knowledge and understanding of the regulatory dynamics together with our innovative and solution-oriented approach allows us to provide robust, focused, practical and innovative solutions for our clients, distinguishing us from our competition in India.</p>
                         <%--<a href="#" class="theme-btn icon-btn-two"><span>Read More</span></a>--%>
                     </div>
                 </div>
